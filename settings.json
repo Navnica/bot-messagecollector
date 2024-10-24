@@ -1,0 +1,19 @@
+{
+  "token": "",
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "name": "botbase",
+    "user": "root",
+    "password": ""
+  },
+  "media_dir": "media",
+  "web_urls": {
+    "host": "",
+    "settings_page": {
+      "html": "bot_settings.html",
+      "css": "bot_settings.css",
+      "js": "bot_settings.js"
+    }
+  }
+}
